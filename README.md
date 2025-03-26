@@ -1,5 +1,5 @@
 
-# Reinforcement Learning 2024, Assignment 3: Policy-based RL
+# Reinforcement Learning 2024, Project 3: Policy-based RL
 
 ### Requirements
 For all of the packages needed to run this assignment, see file *requirements.txt*, which can be
